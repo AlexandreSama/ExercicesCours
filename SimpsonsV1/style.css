@@ -1,0 +1,41 @@
+/* ************GENERAL************** */
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;   
+}
+body{
+    background-color: yellow;
+}
+.container {
+    width: 80%; /* Can be in percentage also. */
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+header, nav, aside {
+    background-color: blue;
+    color: white;
+}
+main{
+    background-color: white;
+}
+h1 {
+    color: yellow;
+}
+header h2{
+    padding-left: 43%;
+}
+li{
+    list-style-type: none;
+}
+a {
+    color: white;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
+.simpsimg{
+    width: 100%;
+}
